@@ -1,0 +1,16 @@
+     /* Social Media Icons */
+        .instagram-icon::before {
+            content: "🅾";
+        }
+
+        .linkedin-icon::before {
+            content: "[in]";
+        }
+
+        .email-icon::before {
+            content: "✉︎";
+        }
+
+        .phone-icon::before {
+            content: "☎";
+        }
